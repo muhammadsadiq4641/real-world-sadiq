@@ -16,7 +16,6 @@
     "@react-pdf-viewer/core": "^3.12.0",
     "@react-pdf-viewer/default-layout": "^3.12.0",
     "@splinetool/react-spline": "^4.0.0",
-    "@studio-freight/lenis": "^1.0.42",
     "@walletconnect/ethereum-provider": "^2.17.3",
     "@web3modal/ethers": "^5.1.11",
     "axios": "^1.6.7",

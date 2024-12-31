@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   background-image: url(../public/assets/images/bodybg.png);
   -webkit-background-size: cover;
